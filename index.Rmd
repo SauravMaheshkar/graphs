@@ -1,0 +1,17 @@
+--- 
+title: "😎 Graph Theory"
+author: "Saurav Maheshkar"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  Collection of notes on Graph Theory
+link-citations: yes
+github-repo: SauravMaheshkar/graphs
+---
+
+# About
+
+My collection of notes on Graph Theory

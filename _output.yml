@@ -1,0 +1,12 @@
+bookdown::gitbook:
+  css: style.css
+  config:
+    fontsettings:
+      theme: night
+    toc:
+      before: |
+        <li><a href="./">Graph Theory</a></li>
+      after: |
+        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+    edit: https://github.com/SauravMaheshkar/graphs/edit/main/%s
+    download: ["pdf", "epub"]
